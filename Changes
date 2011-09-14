@@ -1,0 +1,15 @@
+Revision history for Perl extension PNI::GUI::Tk.
+
+0.15  2011-09-xx
+    - del nodes
+    - node inspector and node_selector improved
+    - comment_editor
+    - PNI::GUI::Tk::Canvas::Group
+
+0.14  2011-08-08
+    - write comments
+
+0.12  2011-07-31
+    - first usable version
+    - open, save .pni files
+
